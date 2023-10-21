@@ -40,11 +40,9 @@ If you want others to contribute to your project, provide guidelines for how the
 
 ## License
 
-Specify the license under which your project is distributed. For example, if it's under the MIT License, include the license text in this section.
+Specify the license under which your project is distributed. For example, include the license text in this section if it's under the MIT License.
 
-## Credits
 
-Acknowledge and give credit to any individuals or organizations whose code or resources you used in your project.
 
 ------------
 
